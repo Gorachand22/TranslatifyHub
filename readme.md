@@ -2,9 +2,9 @@
 
 ## Streamlit App
 
-<https://translatifyapp-i6yn87ibudwm6zh7cdugdv.streamlit.app/>
+<https://translatifyapp-zybqvqcyzudeakcc9wpsqx.streamlit.app/>
 
-![Deep Translator App](https://github.com/Gorachand22/TranslatifyHub/blob/master/images/logo1.png)
+![Deep Translator App](https://github.com/Gorachand22/TranslatifyHub/blob/main/images/logo1.png)
 
 ## Overview
 
